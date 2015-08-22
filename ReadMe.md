@@ -28,4 +28,4 @@ source("run_analisys.R") on the command line of R OR
 
 R CMD BATCH /home/~/run_analisys.R
 
-
+###A more detailed description of the dataset creation and transformation can be found in the Code Book.md
